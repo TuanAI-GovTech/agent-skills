@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quản lý nhiệm vụ KH&CN cấp tỉnh"
+  short_description: "Theo dõi nhiệm vụ KH&CN cấp tỉnh"
+  default_prompt: "Use $quan-ly-nhiem-vu-khcn-cap-tinh to lập hồ sơ quản lý và theo dõi tiến độ một nhiệm vụ khoa học và công nghệ cấp tỉnh."
